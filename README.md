@@ -42,4 +42,4 @@ Welcome to the Real Estate MERN Project, a full-stack application built using th
 - **World Countries:** Employed `world-countries` (version 4.0.0) for accessing country information.
 
 ## Deployment
-The application is deployed on Vercel and can be accessed at [Real Estate MERN Project].
+The application is deployed on Vercel and can be accessed at [Real Estate MERN Project] (https://rent-dream-house-sd.vercel.app/).
